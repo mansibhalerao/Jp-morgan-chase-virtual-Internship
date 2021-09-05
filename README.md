@@ -24,5 +24,7 @@ Generated a live graph that help the trader to quickly and easily notice when
 the ratio moves too far from the average historical correlation and 
 finally, alerts are shown whenever these bounds are crossed by the ratio.
 
+<br>
+Github for Perspective open source - https://github.com/finos/perspective
 
 
